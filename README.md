@@ -34,3 +34,16 @@ Replace `<your MongoDB connection URL>` with the URL of your MongoDB database.
 
 Visit the main repository [here](https://github.com/chiragbhatia7/PRODIGY_SD_02) to view the CLI based game source code built with Node.js.
 
+### Screenshots
+
+#### Development (API and Client Side)
+![Development](/screenshots/1.png)
+
+#### API Testing (Postman and Axios)
+![API Testing](/screenshots/2.png)
+
+#### Database persistence (Mongo DB) 
+![Database](/screenshots/3.png)
+
+#### Leaderboard (React + TailwindCSS)
+![Leaderboard](/screenshots/4.png)
